@@ -1,0 +1,26 @@
+TODAY'S BEAUTY NEWS
+- 7 Golden Globes beauty trends that are about to be everywhere in 2026 - HELLO! Magazine
+- China’s 2026 beauty trends: Scenario skin, neuro-scent and biotech - Jing Daily
+- How Chanel is making skincare the new fashion statement - HELLO! Magazine
+- The 10 Best Beauty Looks at the 83rd Annual Golden Globes - Harper's BAZAAR
+- The Golden Globes Red Carpet Is a Lesson in Winter Beauty Trends - Marie Claire
+- 2026 is the year the boomer beauty economy takes centre stage - Cosmetics Business
+- L’Occitane en Provence Celebrates 50 Year Anniversary - beautypackaging.com
+- L’Oréal Opens New York Mega-hub for Content Creation, Stylist Education and More - WWD
+- Factors That Are Driving Beauty Trends in 2026 - beautypackaging.com
+- Artificial Intelligence (A.I.) in Beauty and Cosmetics Market Report- Expansive Coverage on the Profit Sources - openPR.com
+
+EMERGING TRENDS
+beauty: 10
+trends: 5
+cosmetics: 5
+market: 5
+openprcom: 4
+golden: 3
+globes: 3
+beautypackagingcom: 3
+hello: 2
+magazine: 2
+
+---
+This page is hosted using GitHub Pages!
