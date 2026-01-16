@@ -1,26 +1,26 @@
 TODAY'S BEAUTY NEWS
-- 7 Golden Globes beauty trends that are about to be everywhere in 2026 - HELLO! Magazine
-- China’s 2026 beauty trends: Scenario skin, neuro-scent and biotech - Jing Daily
-- How Chanel is making skincare the new fashion statement - HELLO! Magazine
-- The 10 Best Beauty Looks at the 83rd Annual Golden Globes - Harper's BAZAAR
-- The Golden Globes Red Carpet Is a Lesson in Winter Beauty Trends - Marie Claire
-- 2026 is the year the boomer beauty economy takes centre stage - Cosmetics Business
-- L’Occitane en Provence Celebrates 50 Year Anniversary - beautypackaging.com
-- L’Oréal Opens New York Mega-hub for Content Creation, Stylist Education and More - WWD
-- Factors That Are Driving Beauty Trends in 2026 - beautypackaging.com
-- Artificial Intelligence (A.I.) in Beauty and Cosmetics Market Report- Expansive Coverage on the Profit Sources - openPR.com
+- The Vogue Business Beauty Trend Tracker - Vogue
+- The Beauty Trends Experts Are Predicting For 2026 - SheerLuxe
+- 2026’s biggest beauty trends: LED devices, salmon DNA injectables and the return of bronzer - The Irish Times
+- The 7 Best K-Beauty Makeup Trends to Try in 2026, According to a Korean Beauty Editor - Harper's BAZAAR
+- 7 K-Beauty Trends Shaping 2026 - Vogue
+- New Novel ‘Sheer’ Spells Reveals Layers of the Beauty Industry - Yahoo News Singapore
+- Beauty industry titan is secretly the godmother of Sebastian Stan and no one can quite believe it - Indy100
+- 4 beauty packaging trends to know for 2026 - Cosmetics Design Europe
+- Skincare switching is dominating the beauty industry - Drug Store News
+- Lumson Receives a Platinum Medal from EcoVadis - Beauty Packaging
 
 EMERGING TRENDS
 beauty: 10
-trends: 5
+trends: 7
 cosmetics: 5
-market: 5
-openprcom: 4
-golden: 3
-globes: 3
-beautypackagingcom: 3
-hello: 2
-magazine: 2
+market: 4
+vogue: 3
+industry: 3
+packaging: 3
+openprcom: 3
+kbeauty: 2
+news: 2
 
 ---
 This page is hosted using GitHub Pages!
