@@ -1,26 +1,22 @@
 TODAY'S BEAUTY NEWS
-- The Vogue Business Beauty Trend Tracker - Vogue
-- The Beauty Trends Experts Are Predicting For 2026 - SheerLuxe
-- 2026’s biggest beauty trends: LED devices, salmon DNA injectables and the return of bronzer - The Irish Times
-- The 7 Best K-Beauty Makeup Trends to Try in 2026, According to a Korean Beauty Editor - Harper's BAZAAR
-- 7 K-Beauty Trends Shaping 2026 - Vogue
-- New Novel ‘Sheer’ Spells Reveals Layers of the Beauty Industry - Yahoo News Singapore
-- Beauty industry titan is secretly the godmother of Sebastian Stan and no one can quite believe it - Indy100
-- 4 beauty packaging trends to know for 2026 - Cosmetics Design Europe
-- Skincare switching is dominating the beauty industry - Drug Store News
-- Lumson Receives a Platinum Medal from EcoVadis - Beauty Packaging
+- How Evereden is reshaping the beauty industry for a new generation - fastcompany.co.za
+- How Evereden is reshaping the beauty industry for a new generation - fastcompany.co.za
+- Facial Dry Brushing: Viral Jawline Hack or Just Another Beauty Trend? - The Hans India
+- Why every beauty trend feels like a new kind of pressure - Rolling Out
+- Facial Dry Brushing: Viral Jawline Hack or Just Another Beauty Trend? - The Hans India
+- Are AI beauty machines safe and effective? Dermatologists weigh in - Lifestyle Asia Hong Kong
 
 EMERGING TRENDS
-beauty: 10
-trends: 7
-cosmetics: 5
-market: 4
-vogue: 3
-industry: 3
-packaging: 3
-openprcom: 3
-kbeauty: 2
-news: 2
+beauty: 6
+trend: 3
+evereden: 2
+reshaping: 2
+industry: 2
+generation: 2
+fastcompanycoza: 2
+facial: 2
+brushing: 2
+viral: 2
 
 ---
 This page is hosted using GitHub Pages!
