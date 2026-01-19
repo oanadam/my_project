@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.Python
+env/
+venv/
+ENV/
+
+# Sisteme de operare
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Date si Log-uri
+*.log
+*.sql
+*.sqlite
+data_raw/
+secrets.py
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
